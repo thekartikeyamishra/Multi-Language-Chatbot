@@ -1,0 +1,17 @@
+{
+    "greetings": {
+        "en": "Hello! How can I assist you?",
+        "hi": "नमस्ते! मैं आपकी कैसे मदद कर सकता हूँ?",
+        "es": "¡Hola! ¿Cómo puedo ayudarte?"
+    },
+    "goodbye": {
+        "en": "Goodbye! Have a great day!",
+        "hi": "अलविदा! आपका दिन शुभ हो!",
+        "es": "¡Adiós! ¡Que tengas un gran día!"
+    },
+    "help": {
+        "en": "I'm here to help! Ask me anything.",
+        "hi": "मैं मदद के लिए यहाँ हूँ! मुझसे कुछ भी पूछें।",
+        "es": "¡Estoy aquí para ayudar! Pregúntame cualquier cosa."
+    }
+}
