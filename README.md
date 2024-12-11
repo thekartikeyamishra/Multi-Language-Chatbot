@@ -13,7 +13,7 @@ The **Multi-Language Chatbot** is an AI-powered chatbot capable of understanding
 
 ---
 
-## **What Is It? (Advanced Version) **
+## What Is It? (Advanced Version) 
 
 The Multi-Language Chatbot is a sophisticated conversational assistant that:
 
@@ -24,7 +24,7 @@ The Multi-Language Chatbot is a sophisticated conversational assistant that:
 
 ---
 
-## **Why Use It? (Advanced Version) **
+## Why Use It? (Advanced Version) 
 
 1. **Global Reach**: Ideal for businesses, educators, or developers needing multi-lingual communication tools.
 2. **Ease of Use**: Non-coders can use the GUI or Streamlit dashboard without writing a single line of code.
@@ -33,7 +33,7 @@ The Multi-Language Chatbot is a sophisticated conversational assistant that:
 
 ---
 
-## **How Does It Work? (Advanced Version) **
+## How Does It Work? (Advanced Version) 
 
 1. Users enter a query in their preferred language.
 2. The chatbot translates the query to English for processing (if needed).
@@ -43,7 +43,7 @@ The Multi-Language Chatbot is a sophisticated conversational assistant that:
 
 ---
 
-### **Key Features (Advanced Version) **
+### Key Features (Advanced Version) 
 - **Multi-Language Support**: Communicate in multiple languages with seamless translation.
 - **LLM Integration**: Generate intelligent, context-aware responses.
 - **Voice Interaction**: Speak queries and hear responses in real-time.
