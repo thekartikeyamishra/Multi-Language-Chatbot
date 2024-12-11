@@ -160,7 +160,7 @@ pip install -r requirements.txt
 
 ---
 
-### **Folder Structure in Bash**
+### Folder Structure
 
 Here's how the folder structure will look:
 
