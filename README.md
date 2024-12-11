@@ -159,12 +159,8 @@ pip install -r requirements.txt
 ```
 
 ---
-
-### Folder Structure
-
 Here's how the folder structure will look:
 
-```bash
 MultiLanguageChatbot/
 ├── data/
 │   ├── responses.json           # Pre-defined responses for different languages
@@ -179,5 +175,4 @@ MultiLanguageChatbot/
 ├── main.py                      # Entry point to run the chatbot
 ├── requirements.txt             # Dependencies required for the project
 ├── README.md                    # Documentation for the project
-```
 
