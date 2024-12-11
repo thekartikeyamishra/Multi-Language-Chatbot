@@ -2,11 +2,9 @@
 For the next 15 days, I'll be creating and sharing 15 projects – one per day! Free versions will be open to all on my GitHub, and a low-cost paid version will be available too. Can't wait to hear your thoughts!
 The **Multi-Language Chatbot** is a Python-based chatbot that allows users to communicate in multiple languages (e.g., English, Hindi, and Spanish). The chatbot uses pre-defined responses for common queries and a translation API to handle multi-language input.
 
-### **README File **
+### README File
 
 ```markdown
-# Multi-Language Chatbot (Basic Version)
-
 ## Overview
 
 The **Multi-Language Chatbot** is a Python-based chatbot that allows users to communicate in multiple languages (e.g., English, Hindi, and Spanish). The chatbot uses pre-defined responses for common queries and a translation API to handle multi-language input.
