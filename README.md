@@ -229,6 +229,8 @@ pip install -r requirements.txt
 - **Python**: The programming language used to build this chatbot.
 - **Tkinter**: For the graphical user interface.
 
+- * LinkedIn : https://www.linkedin.com/in/thekartikeyamishra/
+
 ```
 
 ---
@@ -248,4 +250,6 @@ MultiLanguageChatbot/
 ├── main.py                      # Entry point to run the chatbot
 ├── requirements.txt             # Dependencies required for the project
 ├── README.md                    # Documentation for the project
+
+
 
